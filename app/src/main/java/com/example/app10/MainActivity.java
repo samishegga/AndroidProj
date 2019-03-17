@@ -53,6 +53,8 @@ public void SeekBar_Method(){
                     Toast.makeText(MainActivity.this,"SeekBar in StopTrackingTouch", Toast.LENGTH_LONG).show();
 
 
+
+
                 }
             }
     );
